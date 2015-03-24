@@ -7,7 +7,7 @@ use 5.010001;
 use strict;
 use warnings;
 
-use Complete::Util ();
+use Complete::Module ();
 
 sub complete_arg_val {
     Complete::Module::complete_module(@_);
