@@ -1,5 +1,13 @@
 Revision history for Perinci-Sub-ArgEntity-modulename
 
+0.02    2015-09-06 (PERLANCAR)
+
+	- No functional changes.
+
+	- [dzil] Update syntax of lint-prereqs directive (-> lint_prereqs)
+	  to be more IOD-compliant.
+
+
 0.01    2015-03-24 (PERLANCAR)
 
         - First release.
